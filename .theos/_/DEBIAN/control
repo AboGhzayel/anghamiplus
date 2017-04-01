@@ -1,0 +1,10 @@
+Package: com.aboghzayel.anghamiPlus
+Name: AnghamiPlus
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description:  Block Ads For Anghami App!
+Maintainer: Mohammad Ghzayel
+Author: Mohammad Ghzayel
+Section: Tweaks
+Version: 1-1
+Installed-Size: 136
